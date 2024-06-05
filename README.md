@@ -1,3 +1,4 @@
+![iris_scatter_plot](https://github.com/PedroOrfao/Iris_sample_graphs/assets/168864377/50be690c-275a-4e95-b6e4-1ba9d03524ed)
 # Iris Dataset Scatter Plot
 This repository contains a Python script that generates a scatter plot visualizing the Iris dataset. The scatter plot represents the relationship between sepal length and sepal width for three different types of iris flowers: Iris-setosa, Iris-versicolor, and Iris-virginica.
 
@@ -16,7 +17,7 @@ Install the required libraries by running pip install pandas matplotlib.
 Run the Python script Iris_sample_dataset_scatter_plot.py.
 The scatter plot will be displayed, showing the relationship between sepal length and sepal width for the three types of iris flowers.
 ## Files Included
-scatter_plot_iris.py: Python script to generate the scatter plot.
+Iris_sample_dataset_scatter_plot.py: Python script to generate the scatter plot.
 README.md: This file containing information about the scatter plot.
 ## Dependencies
 Pandas: Data manipulation library in Python.
